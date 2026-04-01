@@ -18,7 +18,7 @@
 docker run --name postgres -e POSTGRES_PASSWORD=123 -e POSTGRES_DB=task_manager -d -p 5432:5432 postgres
 ```
 **Вариант 2**
-** 1. Клонировать репозиторий**
+### 1. Клонировать репозиторий
 ```bash
 git clone https://github.com/your-username/task-manager.git
 ```
